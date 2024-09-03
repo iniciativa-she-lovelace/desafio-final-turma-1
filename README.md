@@ -5,7 +5,7 @@ Neste repositório você encontra o enunciado do Desafio Final da _primeira turm
 
 ## O problema
 
-Você foi encarregada de desenvolver um sistema de registro de vendas que permite o armazenamento e a análise de dados de vendas de produtos. Este sistema deve ser capaz de registrar cada venda realizada, armazenar essas informações em um arquivo CSV (banco de dados), e gerar relatórios que ofereçam insights sobre o desempenho das vendas.
+Você foi encarregada de desenvolver um sistema de registro de vendas que permite o armazenamento e a análise de dados de vendas de produtos. Este sistema deve ser capaz de registrar cada venda realizada, armazenar essas informações em um arquivo CSV (banco de dados), e gerar relatórios que ofereçam informações sobre o desempenho das vendas.
 
 ## Requisitos do sistema
 1. Registro de Vendas: O sistema deve permitir o registro de vendas, capturando informações como data da venda, produto vendido, quantidade e valor total.
